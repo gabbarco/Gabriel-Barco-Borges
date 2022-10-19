@@ -1,6 +1,6 @@
 # Gabriel-Barco-Borges
 
-Estou no terceiro ano de Ciência da Computação no IFTM campus Ituiutaba, tenho um imenso prazer em programar e em várias outras coisas ligadas à computaão, e também muita vontade de aprender o que ainda não sei sobre esse mundo.
+__Estou no terceiro ano de Ciência da Computação no IFTM campus Ituiutaba, tenho um imenso prazer em programar e em várias outras coisas ligadas à computaão, e também muita vontade de aprender o que ainda não sei sobre esse mundo.__
 
 Habilidades técnicas:
 
