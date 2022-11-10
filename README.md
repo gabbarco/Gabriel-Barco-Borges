@@ -2,6 +2,12 @@
 
 __Estou no terceiro ano de Ciência da Computação no IFTM campus Ituiutaba, tenho muito prazer em programar e me destaco mais nos âmbitos de segurança da informação e banco de dados, atualmente estudo mais profundamente sobre a área de computação forense, na qual pretendo seguir no futuro.__
 
+<div align="center">
+  <a href="https://github.com/jaocastelar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabbarco&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaocastelar&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 Habilidades técnicas:
 
 
