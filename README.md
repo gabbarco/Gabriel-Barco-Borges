@@ -19,6 +19,8 @@ __Habilidades técnicas:__
 ![226777](https://user-images.githubusercontent.com/82094727/184707731-88e32706-18a3-4d70-9dac-670a5a42c940.png)
 ![pngwing com (7)](https://user-images.githubusercontent.com/82094727/202776790-507e926c-de69-412c-a74b-1e3dc3b8643a.png)
 ![pngwing com (5)](https://user-images.githubusercontent.com/82094727/198166677-e1b992dc-62a7-440c-b8b4-51c9e16252e1.png)
+![js](https://user-images.githubusercontent.com/82094727/226415652-13d4e094-935e-44a5-b3b2-7d31b3536743.png)
+
 
 
 ![Snake animation](https://github.com/gabbarco/gabbarco/blob/output/github-contribution-grid-snake.svg)
