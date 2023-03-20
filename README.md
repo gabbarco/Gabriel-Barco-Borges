@@ -21,9 +21,9 @@ __Habilidades técnicas:__
 ![226777](https://user-images.githubusercontent.com/82094727/184707731-88e32706-18a3-4d70-9dac-670a5a42c940.png)
 ![js](https://user-images.githubusercontent.com/82094727/226415652-13d4e094-935e-44a5-b3b2-7d31b3536743.png)
 ![pngwing com (3)](https://user-images.githubusercontent.com/82094727/226418582-b4e9aeb1-272d-4b9d-aea7-77e1826bd0e5.png)
-![pngwing com (9)](https://user-images.githubusercontent.com/82094727/226420063-03960793-5932-471a-8dc5-8e0b4e3074d0.png)
-![pngwing com (7)](https://user-images.githubusercontent.com/82094727/202776790-507e926c-de69-412c-a74b-1e3dc3b8643a.png)
 ![pngwing com (5)](https://user-images.githubusercontent.com/82094727/226418915-ca35616f-d7f4-4f3a-bc98-f1c919f57354.png)
+![pngwing com (7)](https://user-images.githubusercontent.com/82094727/202776790-507e926c-de69-412c-a74b-1e3dc3b8643a.png)
+![pngwing com (9)](https://user-images.githubusercontent.com/82094727/226420063-03960793-5932-471a-8dc5-8e0b4e3074d0.png)
 ![pngwing com (5)](https://user-images.githubusercontent.com/82094727/198166677-e1b992dc-62a7-440c-b8b4-51c9e16252e1.png)
 
 
