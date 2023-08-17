@@ -1,8 +1,8 @@
 # Gabriel-Barco-Borges
 
-__Estou no terceiro ano de Ciência da Computação no IFTM campus Ituiutaba, tenho muito prazer em programar e me destaco mais nos âmbitos de segurança da informação e banco de dados, atualmente estudo mais profundamente sobre a área de computação forense, na qual pretendo seguir no futuro.
-Minhas competências são: C, Python, Java, JavaScript, Node.Js, Vue.Js, MySQL/PostgreSQL, Redes de computadores (Cisco). Também tenho experiência em Windows e Linux.
-No momento atuo como desenvolvedor back-end, área na qual possuo maior experiência devido ao estágio.__
+__Estou no quarto ano de Ciência da Computação no IFTM campus Ituiutaba, tenho muito prazer em programar e me destaco mais nos âmbitos de desenvolvimento back-end e análise de dados, atualmente estudo mais profundamente frameworks e linguagens relacionadas ao back-end.
+Minhas competências são: Python, JavaScript, Node.Js, Vue.Js, MySQL/PostgreSQL. Também tenho experiência em Windows e Linux.
+No momento atuo como desenvolvedor back-end, área na qual possuo maior experiência por conta do estágio.__
 
 <br> 
 <div align="center">
