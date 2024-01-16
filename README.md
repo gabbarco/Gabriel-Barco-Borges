@@ -1,6 +1,6 @@
 # Gabriel-Barco-Borges
 
-__Estou no 8° período de Ciência da Computação no IFTM campus Ituiutaba, tenho muito prazer em programar e me destaco mais nos âmbitos de desenvolvimento back-end e análise de dados, atualmente estudo mais profundamente frameworks e linguagens relacionadas ao back-end.
+__Finalizei recentemente o curso de Ciência da Computação no IFTM campus Ituiutaba, atualmente estudo mais profundamente frameworks e linguagens relacionadas ao back-end.
 Minhas competências são: Python, JavaScript, Node.Js, Vue.Js, MySQL/PostgreSQL. Também tenho experiência em Windows e Linux.
 No momento atuo como desenvolvedor back-end, área na qual possuo maior experiência por conta do estágio.__
 
